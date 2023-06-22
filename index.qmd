@@ -24,8 +24,9 @@ University of Wisconsin-Madison \| Madison, WI
 
 -   Ph.D. in Quantitative Methods \| Sept 2018 - current
 
+```{=html}
 <!-- -->
-
+```
 -   M.S. in Quantitative Methods, Graduate minor in Statistics \| Sept 2018 - Dec 2021
 
 Seoul National University \| Seoul, Republic of Korea
