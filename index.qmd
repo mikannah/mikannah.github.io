@@ -1,5 +1,18 @@
 ---
-title: "mikannah.github.io"
+title: "Hanna Kim"
+image: Hanna Kim.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 13em
+  image-alt: Hanna Kim's headshot taken in 2022
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/hanna-kim-587616a4/
+    - text: Twitter
+      href: https://twitter.com/mikannahh
+    - text: Email
+      href: mailto::hanna.kim@wisc.edu
 ---
 
 This is a Quarto website.

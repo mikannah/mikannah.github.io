@@ -20,3 +20,6 @@ usethis::git_default_branch_rename(from = "master", to = "main")
 # .nojekyll is a hidden file which won’t visibly appear in your directory
 # npm install touch-cli -g
 
+# Stage, commit, and push
+
+
