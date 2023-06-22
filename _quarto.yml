@@ -5,16 +5,18 @@ project:
 website:
   title: "Hanna Kim"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
+    page-layout: full
 
 editor: visual
 
