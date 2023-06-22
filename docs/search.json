@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mikannah.github.io",
+    "title": "Hanna Kim",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hanna Kim is a Ph.D. candidate in Quantitative Methods at the University of Wisconsin-Madison. Her research involves developing and applying statistical models motivated by educational data, such as estimating the effects of longitudinal treatments and extending the use of latent variable modeling to dyadic data analysis."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hanna Kim",
+    "section": "Education",
+    "text": "Education\nUniversity of Wisconsin-Madison | Madison, WI\nPh.D. in Quantitative Methods | Sept 2018 - current\nM.S. in Quantitative Methods, Graduate minor in Statistics | Sept 2018 - Dec 2021\nSeoul National University | Seoul, Republic of Korea\nM.A. in Educational Measurement and Evaluation | Mar 2016 - Aug 2018\nB.S. in Education, Minor in German Language and Literature | Mar 2012 - Feb 2016"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hanna Kim",
+    "section": "Experience",
+    "text": "Experience\nProject Assistant | Testing & Evaluation Services | Summer 2023 - present\nInstructor (Regression Models in Education; Ed Psych 763) | University of Wisconsin-Madison | Summer 2022\nProject Assistant | UW Center for Tobacco Research and Intervention | Fall 2021 - Summer 2022\nTeaching Assistant (Statistical Methods Applied to Education I, II (Ed Psych 760, 761) | Fall 2020 -Spring 2021\nProject Assistant | Wisconsin Center for Education Research | Fall 2019 - Summer 2020"
   }
 ]

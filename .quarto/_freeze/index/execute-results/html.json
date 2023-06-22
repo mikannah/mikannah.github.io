@@ -1,7 +1,7 @@
 {
-  "hash": "c90279a438a1f8ec0dd54f25105c851a",
+  "hash": "4eac1a73c9849178f7e601cf05efa3be",
   "result": {
-    "markdown": "---\ntitle: \"mikannah.github.io\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Hanna Kim\"\nimage: Hanna Kim.jpg\nabout:\n  template: trestles\n  image-shape: rounded\n  image-width: 13em\n  links:\n    - text: LinkedIn\n      href: https://www.linkedin.com/in/hanna-kim-587616a4/\n    - text: Twitter\n      href: https://twitter.com/mikannahh\n    - text: Email\n      href: mailto::hanna.kim@wisc.edu\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
