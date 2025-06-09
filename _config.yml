@@ -20,12 +20,12 @@ repository               : "mikannah/mikannah.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author: mikannah
+author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "hanna.jpg"
+  name             : "Hanna Kim"
+  pronouns         : "she/her"  
+  bio              : "Assistant Professor in Quantitative Psychology"
   location         : "Santa Cruz, CA"
   employer         : "University of California, Santa Cruz"
   uri              : # URL
